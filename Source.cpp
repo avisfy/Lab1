@@ -9,8 +9,8 @@ int main()
 {
 	int k = 0;
 	//[-1; -0.5]
-	double a1 = -1;
-	double b1 = -0.5;
+	double a1 = -0.8;
+	double b1 = -0.6;
 	//[0.7; 0.8]
 	double a2 = 0.7;
 	double b2 = 0.8;
